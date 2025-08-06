@@ -1,0 +1,11 @@
+Theme: Sad
+Prompt: The day I lost my best friend
+Generated: It was raining when I walked away from the hospital. The silence was unbearable.
+
+Theme: Happy
+Prompt: Winning the championship after years of struggle
+Generated: The crowd erupted as I crossed the finish line. Tears of joy streamed down my face.
+
+Theme: Angry
+Prompt: When they broke their promise again
+Generated: I slammed the door, my voice rising with every word. Enough was enough.
