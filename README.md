@@ -16,3 +16,6 @@ Install dependencies using:
 1. Open `gpt2_generator.ipynb` in Colab or Jupyter
 2. Run all cells to fine-tune and generate text
 3. Modify prompts to explore different emotional outputs
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shambhavi9228/Text-generator/blob/GPT2_Text_Generator.ipynb)
+
